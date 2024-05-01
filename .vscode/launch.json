@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Agenda",
+            "request": "launch",
+            "mainClass": "br.edu.up.Agenda",
+            "projectName": "lista004_2dca6785"
+        },
+        {
+            "type": "java",
             "name": "Programa",
             "request": "launch",
             "mainClass": "br.edu.up.Programa",
