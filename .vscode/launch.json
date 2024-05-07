@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Programa",
+            "request": "launch",
+            "mainClass": "br.edu.up.Programa"
+        },
+        {
+            "type": "java",
             "name": "Agenda",
             "request": "launch",
             "mainClass": "br.edu.up.Agenda",
